@@ -1,9 +1,8 @@
-# PortaDesk update manifest (docs/24). Sinh boi make-update-manifest.ps1 2026-07-25.
 schema=1
 channel=stable
-latest=1.10.1
+latest=1.11.0
 min_supported=1.9.9
 mandatory=0
-url=https://github.com/edward-truongdt/portadesk/releases/download/portadesk/PortaDesk-Setup-1.10.1.exe
-sha256=39886648ed62f89ee59ad2fbfffcb4f410eb6e29154fb7973ca917b764e35fd8
+url=https://github.com/edward-truongdt/portadesk/releases/download/portadesk/PortaDesk-Setup-1.11.0.exe
+sha256=dcc1917caeba9ded1d18638b001b188247f39bbe51dfb72fb836f627a4d5c5b7
 notes=https://github.com/edward-truongdt/portadesk/releases
