@@ -1,3 +1,4 @@
+# PortaDesk update manifest (docs/24). Sinh boi make-update-manifest.ps1 2026-07-25.
 schema=1
 channel=stable
 latest=1.11.0
